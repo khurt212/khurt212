@@ -21,10 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.linkedin.com/in/khurtbaculi/" height="35" alt="linkedin logo"  />
-</div>
-
 ###
 
 <br clear="both">
