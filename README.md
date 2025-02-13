@@ -1,5 +1,5 @@
 # 💫 About Me:
-##  Hello World!, I'm Khurt, Web Developer<br>- [x] 🌱 I’m currently learning React<br>- [x] 👯 I’m looking to collaborate on Projects as Web Developer<br>- [x] 📫 How to reach me: [CONTACT ME](https://www.linkedin.com/in/khurtbaculi/)
+##  Hello World!, I'm Khurt, Web Developer<br>-🌱 I’m currently learning React<br>-👯 I’m looking to collaborate on Projects as Web Developer<br>-📫 How to reach me: [CONTACT ME](https://www.linkedin.com/in/khurtbaculi/)
 
 
 ## 🌐 Socials:
