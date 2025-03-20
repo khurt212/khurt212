@@ -1,14 +1,6 @@
 <h2 align="center">Hello Word!, I'm Khurt, Web Developer</h2>
 
-###
 
-
-
-###
-
-
-
-###
 
 ###
 
@@ -18,8 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/khurt212/count.svg?"  />
-</div>
 
-###
+
+
