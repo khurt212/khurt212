@@ -1,4 +1,4 @@
-<h2 align="center">Hello Word!, I'm Khurt, Web Developer</h2>
+<h2 align="center">Hello Word!, I'm Khurt, Front-End Developer</h2>
 
 ![khurt212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khurt212&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
